@@ -22,24 +22,14 @@ A classic Hangman game built with **HTML, CSS, and JavaScript**. Guess the hidde
 
 ## 📁Project Structure
 hangman-game/
-├── index.html        # Home page (entry point)
-├── hangman.html      # Category selection
-├── play.html         # Main game interface
-├── style.css         # All styling rules
-├── hangman.js        # Complete game logic
-├── assets/
-│   ├── bg.png            # Background image
-│   ├── animals.png       # Animal category icon
-│   ├── countries.png     # Countries category icon
-│   ├── sports.png        # Sports category icon
-│   └── professions.png   # Professions category icon
-├── screenshots/
-│   ├── home.png
-│   ├── category.png
-│   ├── play.png
-│   ├── win.png
-│   └── lose.png
-└── README.md         # Documentation
+- index.html # Home page
+- hangman.html # Category selection
+- play.html # Game interface
+- style.css # All styles
+- hangman.js # Game logic
+- assets/ # Images 
+- screenshots/ # Game screenshots
+- README.md # This file
 
 
 ##  Screenshots
