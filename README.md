@@ -50,4 +50,4 @@ hangman-game/
 
 
 ## 👤 Author
-**Eman Rafa** - [GitHub Profile](https://github.com/emanarafa19)
+**Eman Arafa** - [GitHub Profile](https://github.com/emanarafa19)
