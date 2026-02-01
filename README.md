@@ -29,7 +29,7 @@ hangman-game/
 - hangman.js # Game logic
 - assets/ # Images 
 - screenshots/ # Game screenshots
-- README.md # This file
+- README.md # Documentation
 
 
 ##  Screenshots
